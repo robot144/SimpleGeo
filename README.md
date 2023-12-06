@@ -44,6 +44,8 @@ Plot some features
 fig=plot_features!(fig,l1,bbox,s)
 ```
 
+![example plot with points, lines and polygon features](https://github.com/robot144/SimpleGeo.jl/blob/main/figs/fig_test_features.png)
+
 Plot a background map
 ```
 osm_server=WmsServer("open-streetmap")
@@ -52,6 +54,7 @@ img=get_map(osm_server,boundbox,width,height)
 plot_image(img,boundbox)
 ```
 
+![example map from open streetmap](https://github.com/robot144/SimpleGeo.jl/blob/main/figs/open_streetmap.png)
 
 
 
