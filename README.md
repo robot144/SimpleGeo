@@ -56,7 +56,13 @@ plot_image(img,boundbox)
 
 ![example map from open streetmap](https://github.com/robot144/SimpleGeo.jl/blob/main/figs/open_streetmap.png)
 
+## Installation
 
+Add this package using:
+```
+using Pkg
+Pkg.add("https://github.com/robot144/SimpleGeo.jl.git")
+```
 
 
 
