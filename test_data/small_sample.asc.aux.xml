@@ -1,0 +1,21 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="crs#grid_mapping_name">latitude_longitude</MDI>
+    <MDI key="DEPTH#grid_mapping">crs</MDI>
+    <MDI key="DEPTH#long_name">DEPTH</MDI>
+    <MDI key="DEPTH#missing_value">999</MDI>
+    <MDI key="lat#longname">Longitude</MDI>
+    <MDI key="lat#units">degrees east</MDI>
+    <MDI key="lon#longname">Latitude</MDI>
+    <MDI key="lon#units">degrees north</MDI>
+    <MDI key="NC_GLOBAL#title">UNKNOWN</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="grid_mapping">crs</MDI>
+      <MDI key="long_name">DEPTH</MDI>
+      <MDI key="missing_value">999</MDI>
+      <MDI key="NETCDF_VARNAME">DEPTH</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
