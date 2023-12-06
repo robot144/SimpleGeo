@@ -1,0 +1,4 @@
+name = "SimpleGeo"
+uuid = "b7d56e30-0900-4fdf-b2f0-3ef18dd239c2"
+authors = ["robot144 <robot144@protonmail.com>"]
+version = "0.1.0"
